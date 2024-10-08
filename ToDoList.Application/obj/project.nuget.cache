@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bHOrn9x8z20=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Faruk\\source\\repos\\ToDoList.Api\\ToDoList.Application\\ToDoList.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Faruk\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

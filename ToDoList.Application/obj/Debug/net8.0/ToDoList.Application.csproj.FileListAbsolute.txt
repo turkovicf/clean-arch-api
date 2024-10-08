@@ -1,0 +1,15 @@
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.deps.json
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.dll
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\bin\Debug\net8.0\ToDoList.Application.pdb
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\bin\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\bin\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.AssemblyReference.cache
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfoInputs.cache
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.AssemblyInfo.cs
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.csproj.CoreCompileInputs.cache
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.ED2F2C6F.Up2Date
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.dll
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\refint\ToDoList.Application.dll
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ToDoList.Application.pdb
+C:\Users\Faruk\source\repos\ToDoList.Api\ToDoList.Application\obj\Debug\net8.0\ref\ToDoList.Application.dll
